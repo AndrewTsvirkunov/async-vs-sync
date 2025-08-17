@@ -3,3 +3,7 @@
 
 __pycache__/
 *.py[cod]
+
+/bulletin_async
+/bulletin_sync
+*.xls
